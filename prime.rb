@@ -1,7 +1,7 @@
 def prime?(num)
   if num <= 1 
     return false 
-    elsif 
+    elsif (2..Math.sqrt.floor(num))
   end
   
   
